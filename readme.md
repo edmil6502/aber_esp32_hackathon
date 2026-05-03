@@ -1,5 +1,4 @@
-Mine and Theo's entry for the Aberystwyth ESP32 2026 badge hackathon.
-
 We're using the "Cheap Yellow Display" board, with the LED
 
-faosiuehfaiosehdfoasiehfovlxd ikcf olsdighreoih
+Our project is to make a portable digital flashcard device which uses the Leitner system (spaced repitition) to aid in learning. It should be able to process
+mathematical notation so users can learn equations.
